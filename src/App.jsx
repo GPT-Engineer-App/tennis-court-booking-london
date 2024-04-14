@@ -17,7 +17,7 @@ const courts = [
   },
   {
     id: 2,
-    name: "Hyde Park Tennis and Sports Centre",
+    name: "Hyde Park Tennis and Sports Centre", 
     address: "South Carriage Drive, London W2 2UH",
     surface: "Grass",
     price: 15,
@@ -25,9 +25,58 @@ const courts = [
   {
     id: 3,
     name: "Islington Tennis Centre",
-    address: "Market Road, London N7 9PL",
+    address: "Market Road, London N7 9PL", 
     surface: "Clay",
     price: 10,
+  },
+  {
+    id: 4,
+    name: "Paddington Recreation Ground",
+    address: "Randolph Avenue, London W9 1PD",
+    surface: "Hard",
+    price: 11,
+  },
+  {
+    id: 5,
+    name: "Westway Sports & Fitness Centre",
+    address: "1 Crowthorne Road, London W10 6RP",
+    surface: "Hard",
+    price: 13,
+  },
+  {
+    id: 6,
+    name: "Battersea Park Millennium Arena",
+    address: "Battersea Park, London SW11 4NJ",
+    surface: "Clay",
+    price: 14,
+  },
+  {
+    id: 7,
+    name: "Lincoln's Inn Fields Tennis Courts",
+    address: "Lincoln's Inn Fields, London WC2A 3TL",
+    surface: "Hard",
+    price: 12,
+  },
+  {
+    id: 8,
+    name: "Waterlow Park Tennis Courts",
+    address: "Highgate Hill, London N6 5HD",
+    surface: "Hard",
+    price: 9,
+  },
+  {
+    id: 9,
+    name: "Brockwell Park Tennis Courts",
+    address: "Brockwell Park, Dulwich Road, London SE24 0PA",
+    surface: "Hard",
+    price: 10,
+  },
+  {
+    id: 10,
+    name: "Finsbury Park Tennis Courts",
+    address: "Endymion Road, London N4 1EE",
+    surface: "Hard",
+    price: 11,
   },
 ];
 
