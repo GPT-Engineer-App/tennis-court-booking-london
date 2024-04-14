@@ -1,7 +1,7 @@
 # tennis-court-booking-london
 
 Implement a page to allow users to book tennis courts in London. The page should include:
-- A search feature to filter courts by location within London
+- A search feature to filter courts by location within London 
 - A booking form to choose date and time
 - A list of available courts with details like surface type, address, and price
 - User authentication for booking
